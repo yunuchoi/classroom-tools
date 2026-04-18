@@ -136,6 +136,7 @@ const ClockTimetablePage = () => {
                 textTransform: 'none',
                 fontWeight: 400,
               }}
+              disableRipple
             >
               시간 설정 (테스트용)
             </Button>
