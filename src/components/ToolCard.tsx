@@ -20,7 +20,7 @@ const ToolCard = ({ icon, title, description, color, onClick }: ToolCardProps) =
       },
     }}
   >
-    <CardActionArea disableRipple onClick={onClick} sx={{ height: '100%', p: 1 }}>
+    <CardActionArea onClick={onClick} sx={{ height: '100%', p: 1 }}>
       <CardContent sx={{ textAlign: 'center', py: 4, px: 3 }}>
         <Box
           sx={{

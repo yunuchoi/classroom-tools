@@ -36,6 +36,7 @@ const theme = createTheme({
   shape: { borderRadius: 16 },
   components: {
     MuiButton: {
+      defaultProps: { disableRipple: true },
       styleOverrides: {
         root: {
           borderRadius: 999,
@@ -44,6 +45,12 @@ const theme = createTheme({
           fontSize: '1.1rem',
         },
       },
+    },
+    MuiIconButton: {
+      defaultProps: { disableRipple: true },
+    },
+    MuiCardActionArea: {
+      defaultProps: { disableRipple: true },
     },
     MuiCard: {
       styleOverrides: {
