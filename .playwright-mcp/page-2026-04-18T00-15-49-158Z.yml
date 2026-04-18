@@ -1,0 +1,49 @@
+- generic [ref=e3]:
+  - button [ref=e29] [cursor=pointer]:
+    - img [ref=e30]
+  - generic [ref=e32]:
+    - generic [ref=e34]:
+      - heading "오후" [level=6] [ref=e35]
+      - generic [ref=e36]:
+        - paragraph [ref=e37]: 12:15
+        - generic [ref=e38]:
+          - paragraph [ref=e39]: ":"
+          - paragraph [ref=e40]: "49"
+      - heading "2026년 4월 18일 토요일" [level=6] [ref=e41]
+    - separator [ref=e43]
+    - generic [ref=e45]:
+      - heading "오늘의 시간표" [level=6] [ref=e46]
+      - generic [ref=e47]:
+        - generic [ref=e50]:
+          - generic [ref=e51]:
+            - paragraph [ref=e52]: 1교시
+            - paragraph [ref=e53]: · 국어
+          - paragraph [ref=e54]: 10:00 ~ 10:40
+        - generic [ref=e57]:
+          - paragraph [ref=e59]: 쉬는 시간
+          - paragraph [ref=e60]: 10:40 ~ 10:50
+        - generic [ref=e63]:
+          - generic [ref=e64]:
+            - paragraph [ref=e65]: 2교시
+            - paragraph [ref=e66]: · 수학
+          - paragraph [ref=e67]: 10:50 ~ 11:30
+        - generic [ref=e70]:
+          - paragraph [ref=e72]: 점심시간
+          - paragraph [ref=e73]: 11:30 ~ 12:10
+        - generic [ref=e74]:
+          - generic [ref=e76]:
+            - generic [ref=e77]:
+              - paragraph [ref=e78]: 3교시
+              - paragraph [ref=e79]: · 체육
+            - paragraph [ref=e80]: 12:10 ~ 12:50
+          - generic [ref=e82]: 진행 중
+        - generic [ref=e83]:
+          - generic [ref=e85]:
+            - paragraph [ref=e87]: 쉬는 시간
+            - paragraph [ref=e88]: 12:50 ~ 13:00
+          - generic [ref=e90]: 다음
+        - generic [ref=e93]:
+          - generic [ref=e94]:
+            - paragraph [ref=e95]: 4교시
+            - paragraph [ref=e96]: · 영어
+          - paragraph [ref=e97]: 13:00 ~ 13:40

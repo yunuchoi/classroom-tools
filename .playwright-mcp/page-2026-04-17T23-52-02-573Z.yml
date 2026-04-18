@@ -1,0 +1,308 @@
+- generic [ref=e3]:
+  - link "Skip content" [ref=e4] [cursor=pointer]:
+    - /url: "#page-content"
+  - main [ref=e5]:
+    - generic [ref=e7]:
+      - link "ClassDojo" [ref=e9] [cursor=pointer]:
+        - /url: /
+        - img "ClassDojo" [ref=e10]
+      - navigation [ref=e11]:
+        - list [ref=e12]:
+          - button "Products" [ref=e13] [cursor=pointer]:
+            - generic [ref=e14]: Products
+            - img [ref=e15]
+          - button "Schools" [ref=e17] [cursor=pointer]:
+            - generic [ref=e18]: Schools
+            - img [ref=e19]
+          - button "Districts" [ref=e21] [cursor=pointer]:
+            - generic [ref=e22]: Districts
+            - img [ref=e23]
+          - link "Families" [ref=e25] [cursor=pointer]:
+            - /url: /families/
+      - list [ref=e27]:
+        - button "Select a language…" [ref=e28] [cursor=pointer]:
+          - img [ref=e29]
+          - generic [ref=e31]: 🇺🇸
+        - link "Teacher login" [ref=e32] [cursor=pointer]:
+          - /url: https://teach.classdojo.com/
+        - link "Parent login" [ref=e33] [cursor=pointer]:
+          - /url: https://home.classdojo.com/
+    - generic [ref=e34]:
+      - button "Sign up" [ref=e35] [cursor=pointer]:
+        - generic [ref=e36]: Sign up
+      - generic [ref=e38]:
+        - generic [ref=e39]:
+          - heading "Where classrooms become communities" [level=1] [ref=e40]
+          - paragraph [ref=e41]:
+            - text: Loved by more than 45 million students and parents.
+            - generic [ref=e42]: Free for teachers, forever.
+        - generic [ref=e44]:
+          - heading "Get started as a..." [level=3] [ref=e45]
+          - generic [ref=e46]:
+            - button "Teacher sign up" [ref=e47] [cursor=pointer]: Teacher
+            - button "Parent sign up" [ref=e49] [cursor=pointer]: Parent
+            - button "Student sign up" [ref=e51] [cursor=pointer]: Student
+            - button "School leader sign up" [ref=e53] [cursor=pointer]: School Leader
+            - button "District leader page" [ref=e55] [cursor=pointer]: District Leader
+        - generic [ref=e57]:
+          - img "5 Stars" [ref=e58]
+          - text: 2 million+ reviews
+      - heading "Keeping teachers, families, and kids connected" [level=2] [ref=e91]
+      - generic [ref=e101]:
+        - generic [ref=e102]:
+          - img [ref=e104]
+          - generic [ref=e106]:
+            - img [ref=e109]
+            - heading "Stay connected—instantly" [level=3] [ref=e113]
+            - paragraph [ref=e114]: Messages make it easy to communicate with teachers, families and staff anytime, anywhere—and are automatically translated into more than 190+ languages 🌎
+        - generic [ref=e115]:
+          - img [ref=e117]
+          - generic [ref=e119]:
+            - img [ref=e122]
+            - heading "Offer a window into their world" [level=3] [ref=e124]
+            - paragraph [ref=e125]: With Stories, teachers can securely share photos, videos and updates on a private feed so parents can see the classroom magic for themselves ✨
+        - generic [ref=e126]:
+          - img [ref=e128]
+          - generic [ref=e130]:
+            - img [ref=e133]
+            - heading "Keep everyone up-to-date" [level=3] [ref=e135]
+            - paragraph [ref=e136]: Adding Events to the calendar is easy and keeps everyone in the loop with automatic reminders 📅
+        - generic [ref=e137]:
+          - img [ref=e139]
+          - generic [ref=e141]:
+            - img [ref=e144]
+            - heading "Help them grow their own way" [level=3] [ref=e146]
+            - paragraph [ref=e147]: ClassDojo helps teachers and families collaborate to support social-emotional learning with Points and Big Ideas—and gives kids a voice of their own with Portfolios 🎨
+        - generic [ref=e148]:
+          - img [ref=e150]
+          - generic [ref=e152]:
+            - img [ref=e155]
+            - heading "Build the best classroom yet" [level=3] [ref=e157]
+            - paragraph [ref=e158]: From attendance sheets to timers and everything in between, the Teacher Toolkit will save time and energy for what really matters—helping kids grow 🌱
+      - generic [ref=e160]:
+        - heading "A world of adventure awaits." [level=2] [ref=e161]
+        - link "Learn More" [ref=e162] [cursor=pointer]:
+          - /url: /dojo-islands/?utm_campaign=DojoIslands&utm_medium=homePage
+      - generic [ref=e163]:
+        - generic [ref=e165]:
+          - img [ref=e166]
+          - heading "Our community is our superpower" [level=2] [ref=e168]
+        - generic [ref=e169]:
+          - generic [ref=e171]:
+            - img "student doing homework" [ref=e173]
+            - img "teachers wearing monster costumes" [ref=e175]
+            - img "monster plushies" [ref=e177]
+            - generic [ref=e179]:
+              - generic [ref=e183]: Mrs. K@artwithmrs_k
+              - text: "Highlight of virtual teaching: being able to easily communicate with Spanish speaking families on @ClassDojo ❤️"
+            - img "student selfie" [ref=e185]
+            - generic [ref=e187]:
+              - generic [ref=e191]: Julissa R.@jd_rowell
+              - text: Love using @ClassDojo to practice mindfulness! What a great way to start the day
+            - img "student with tablet" [ref=e193]
+            - img "student doing homework" [ref=e195]
+            - img "teachers wearing monster costumes" [ref=e197]
+            - img "monster plushies" [ref=e199]
+            - generic [ref=e201]:
+              - generic [ref=e205]: Mrs. K@artwithmrs_k
+              - text: Love using @ClassDojo to practice mindfulness! What a great way to start the day
+            - img "student selfie" [ref=e207]
+            - generic [ref=e209]:
+              - generic [ref=e213]: Julissa R.@jd_rowell
+              - text: Love using @ClassDojo to practice mindfulness! What a great way to start the day
+            - img "student with tablet" [ref=e215]
+          - generic [ref=e217]:
+            - generic [ref=e219]:
+              - generic [ref=e223]: Mrs. K@artwithmrs_k
+              - text: "Highlight of virtual teaching: being able to easily communicate with Spanish speaking families on @ClassDojo ❤️"
+            - img "student with tablet" [ref=e225]
+            - generic [ref=e227]:
+              - generic [ref=e231]: Jennifer H. Ed.D@jennifermhardin
+              - text: Does everyone else love Class Dojo as much as we do here at Wentworth? 😍
+            - img "mojo plush" [ref=e233]
+            - img "student with christmas card" [ref=e235]
+            - generic [ref=e237]:
+              - generic [ref=e241]: Katie E.@katieerb
+              - text: We love being able to use @ClassDojo to demonstrate our learning and share the results with family members using the portfolio!
+            - img "thank you teacher card" [ref=e243]
+            - generic [ref=e245]:
+              - generic [ref=e249]: Mrs. W@mrswscholars
+              - text: 😍 Thank you @ClassDojo for providing opportunities for scholars to not only complete lessons, but give us teachers some love!
+            - generic [ref=e251]:
+              - generic [ref=e255]: Mrs. K@artwithmrs_k
+              - text: "Highlight of virtual teaching: being able to easily communicate with Spanish speaking families on @ClassDojo ❤️"
+            - img "student with tablet" [ref=e257]
+            - generic [ref=e259]:
+              - generic [ref=e263]: Jennifer H. Ed.D@jennifermhardin
+              - text: Does everyone else love Class Dojo as much as we do here at Wentworth? 😍
+            - img "mojo plush" [ref=e265]
+            - img "student with christmas card" [ref=e267]
+            - generic [ref=e269]:
+              - generic [ref=e273]: Katie E.@katieerb
+              - text: We love being able to use @ClassDojo to demonstrate our learning and share the results with family members using the portfolio!
+            - img "thank you teacher card" [ref=e275]
+            - generic [ref=e277]:
+              - generic [ref=e281]: Mrs. W@mrswscholars
+              - text: 😍 Thank you @ClassDojo for providing opportunities for scholars to not only complete lessons, but give us teachers some love!
+        - link "See more smiles" [ref=e282] [cursor=pointer]:
+          - /url: /wall-of-love
+          - generic [ref=e283]: See more smiles
+      - generic [ref=e285]:
+        - generic [ref=e286]:
+          - heading "Privacy first—always" [level=2] [ref=e287]
+          - paragraph [ref=e288]: Find out how we protect our community of teachers, families, and students
+          - link "ClassDojo Privacy Center" [ref=e289] [cursor=pointer]:
+            - /url: /privacycenter/
+            - generic [ref=e290]: ClassDojo Privacy Center
+        - link [ref=e292] [cursor=pointer]:
+          - /url: https://privacy.commonsense.org/privacy-report/ClassDojo
+      - generic [ref=e296]:
+        - heading "Let’s get growing" [level=2] [ref=e297]
+        - button "Get started" [ref=e298] [cursor=pointer]:
+          - generic [ref=e299]: Get started
+    - generic [ref=e302]:
+      - generic [ref=e303]:
+        - generic [ref=e304]:
+          - generic [ref=e305]:
+            - heading "ClassDojo" [level=2] [ref=e306]
+            - paragraph [ref=e307]: Our mission is to give every child an education they love.
+          - generic [ref=e308]:
+            - button "English" [ref=e309] [cursor=pointer]:
+              - generic [ref=e310]:
+                - img [ref=e311]
+                - generic [ref=e313]: English
+              - img [ref=e314]
+            - link "Accessibility" [ref=e316] [cursor=pointer]:
+              - /url: https://www.essentialaccessibility.com/class-dojo?utm_source=classdojohomepage&utm_medium=iconlarge&utm_term=eachannelpage&utm_content=header&utm_campaign=classdojo
+              - img [ref=e318]
+        - generic [ref=e320]:
+          - generic [ref=e321]:
+            - heading "Company" [level=3] [ref=e322]
+            - list [ref=e323]:
+              - listitem [ref=e324]:
+                - link "About us" [ref=e325] [cursor=pointer]:
+                  - /url: /about/
+              - listitem [ref=e326]:
+                - link "Press" [ref=e327] [cursor=pointer]:
+                  - /url: /press/
+              - listitem [ref=e328]:
+                - link "Careers" [ref=e329] [cursor=pointer]:
+                  - /url: /jobs/
+              - listitem [ref=e330]:
+                - link "Engineering" [ref=e331] [cursor=pointer]:
+                  - /url: https://engineering.classdojo.com
+              - listitem [ref=e332]:
+                - link "Accessibility" [ref=e333] [cursor=pointer]:
+                  - /url: /accessibility/
+          - generic [ref=e334]:
+            - heading "Resources" [level=3] [ref=e335]
+            - list [ref=e336]:
+              - listitem [ref=e337]:
+                - link "Big Ideas" [ref=e338] [cursor=pointer]:
+                  - /url: https://ideas.classdojo.com
+              - listitem [ref=e339]:
+                - link "Points" [ref=e340] [cursor=pointer]:
+                  - /url: /points
+              - listitem [ref=e341]:
+                - link "Resources" [ref=e342] [cursor=pointer]:
+                  - /url: /resources/
+              - listitem [ref=e343]:
+                - link "Training" [ref=e344] [cursor=pointer]:
+                  - /url: /training/
+              - listitem [ref=e345]:
+                - link "Remote Learning" [ref=e346] [cursor=pointer]:
+                  - /url: /remotelearning/
+              - listitem [ref=e347]:
+                - link "ClassDojo Plus" [ref=e348] [cursor=pointer]:
+                  - /url: /plus/
+              - listitem [ref=e349]:
+                - link "Dojo Tutor" [ref=e350] [cursor=pointer]:
+                  - /url: https://tutor.classdojo.com/
+              - listitem [ref=e351]:
+                - link "Activity Corner" [ref=e352] [cursor=pointer]:
+                  - /url: /activity-corner/
+          - generic [ref=e353]:
+            - heading "Support" [level=3] [ref=e354]
+            - list [ref=e355]:
+              - listitem [ref=e356]:
+                - link "Help Center" [ref=e357] [cursor=pointer]:
+                  - /url: https://help.classdojo.com
+              - listitem [ref=e358]:
+                - link "Contact" [ref=e359] [cursor=pointer]:
+                  - /url: /contact/
+              - listitem [ref=e360]:
+                - link "Cookie Settings" [ref=e361] [cursor=pointer]:
+                  - /url: "#cookie-settings"
+              - listitem [ref=e362]:
+                - link "Transparency Notice at Collection" [ref=e363] [cursor=pointer]:
+                  - /url: /transparency/
+              - listitem [ref=e364]:
+                - link "Privacy and Security" [ref=e365] [cursor=pointer]:
+                  - /url: /privacy-and-security/
+          - generic [ref=e366]:
+            - heading "Community" [level=3] [ref=e367]
+            - list [ref=e368]:
+              - listitem [ref=e369]:
+                - link "Teacher Community" [ref=e370] [cursor=pointer]:
+                  - /url: https://www.facebook.com/groups/classdojoteachers
+              - listitem [ref=e371]:
+                - link "Wall of Love" [ref=e372] [cursor=pointer]:
+                  - /url: /wall-of-love/
+          - generic [ref=e373]:
+            - heading "Tutoring" [level=3] [ref=e374]
+            - list [ref=e375]:
+              - listitem [ref=e376]:
+                - link "Find a tutor" [ref=e377] [cursor=pointer]:
+                  - /url: /tutoring
+              - listitem [ref=e378]:
+                - link "Math tutoring" [ref=e379] [cursor=pointer]:
+                  - /url: /tutoring/math
+              - listitem [ref=e380]:
+                - link "Reading tutoring" [ref=e381] [cursor=pointer]:
+                  - /url: /tutoring/reading
+              - listitem [ref=e382]:
+                - link "Dyslexia tutors" [ref=e383] [cursor=pointer]:
+                  - /url: /tutoring/dyslexia
+              - listitem [ref=e384]:
+                - link "ESL tutors" [ref=e385] [cursor=pointer]:
+                  - /url: /tutoring/esl
+      - generic [ref=e386]:
+        - list [ref=e388]:
+          - listitem [ref=e389]:
+            - link "Facebook" [ref=e390] [cursor=pointer]:
+              - /url: https://www.facebook.com/classdojo
+              - generic [ref=e391]: Facebook
+              - img [ref=e392]
+          - listitem [ref=e394]:
+            - link "X" [ref=e395] [cursor=pointer]:
+              - /url: https://www.twitter.com/classdojo
+              - generic [ref=e396]: X
+              - img [ref=e397]
+          - listitem [ref=e399]:
+            - link "Instagram" [ref=e400] [cursor=pointer]:
+              - /url: https://www.instagram.com/classdojo
+              - generic [ref=e401]: Instagram
+              - img [ref=e402]
+        - generic [ref=e406]:
+          - generic [ref=e407]: © ClassDojo, Inc
+          - list [ref=e408]:
+            - listitem [ref=e409]:
+              - link "Terms of Service" [ref=e410] [cursor=pointer]:
+                - /url: /terms/
+            - listitem [ref=e411]:
+              - link "Product Privacy Policy" [ref=e412] [cursor=pointer]:
+                - /url: /privacy/
+            - listitem [ref=e413]:
+              - link "Website Privacy Policy" [ref=e414] [cursor=pointer]:
+                - /url: /website-privacy/
+        - list [ref=e416]:
+          - listitem [ref=e417]:
+            - link "App Store" [ref=e418] [cursor=pointer]:
+              - /url: https://itunes.apple.com/us/app/classdojo/id552602056?mt=8
+              - generic [ref=e419]: App Store
+              - img [ref=e420]
+          - listitem [ref=e426]:
+            - link "Google Play" [ref=e427] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.classdojo.android
+              - generic [ref=e428]: Google Play
+              - img [ref=e429]

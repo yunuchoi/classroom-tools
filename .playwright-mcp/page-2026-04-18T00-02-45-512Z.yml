@@ -1,0 +1,29 @@
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - img [ref=e5]
+    - paragraph [ref=e9]: 05:00
+  - generic [ref=e10]:
+    - button "1분" [ref=e11] [cursor=pointer]:
+      - img [ref=e12]
+      - paragraph [ref=e13]: 1분
+    - button "10초" [ref=e14] [cursor=pointer]:
+      - img [ref=e15]
+      - paragraph [ref=e16]: 10초
+    - button "10초" [ref=e17] [cursor=pointer]:
+      - img [ref=e18]
+      - paragraph [ref=e19]: 10초
+    - button "1분" [ref=e20] [cursor=pointer]:
+      - img [ref=e21]
+      - paragraph [ref=e22]: 1분
+  - generic [ref=e23]:
+    - button "시작" [ref=e24] [cursor=pointer]:
+      - img [ref=e26]
+      - text: 시작
+    - button "초기화" [ref=e28] [cursor=pointer]:
+      - img [ref=e30]
+      - text: 초기화
+  - generic [ref=e33]:
+    - button "1분" [ref=e35] [cursor=pointer]
+    - button "3분" [ref=e37] [cursor=pointer]
+    - button "5분" [ref=e39] [cursor=pointer]
+    - button "10분" [ref=e41] [cursor=pointer]

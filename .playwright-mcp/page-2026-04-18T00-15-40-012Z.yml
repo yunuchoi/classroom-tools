@@ -1,0 +1,25 @@
+- generic [ref=e4]:
+  - heading "오늘의 수업 내용" [level=5] [ref=e5]
+  - paragraph [ref=e6]: 각 교시의 수업 내용을 입력하세요 (선택)
+  - generic [ref=e7]:
+    - generic [ref=e8]:
+      - paragraph [ref=e9]: 1교시
+      - generic [ref=e11]:
+        - 'textbox "예: 1과 워크북, 받아쓰기" [ref=e12]': 국어
+        - group
+    - generic [ref=e13]:
+      - paragraph [ref=e14]: 2교시
+      - generic [ref=e16]:
+        - 'textbox "예: 2과 어휘" [ref=e17]': 수학
+        - group
+    - generic [ref=e18]:
+      - paragraph [ref=e19]: 3교시
+      - generic [ref=e21]:
+        - 'textbox "예: 2과 문법" [ref=e22]': 체육
+        - group
+    - generic [ref=e23]:
+      - paragraph [ref=e24]: 4교시
+      - generic [ref=e26]:
+        - 'textbox "예: 체육" [ref=e27]': 영어
+        - group
+  - button "수업 시작" [ref=e28] [cursor=pointer]
