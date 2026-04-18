@@ -14,7 +14,6 @@ const ToolCard = ({ icon, title, description, color, onClick }: ToolCardProps) =
   <Card
     sx={{
       height: '100%',
-      transition: 'transform 0.2s, box-shadow 0.2s',
       '&:hover': {
         boxShadow: `0 6px 20px ${tokens.cardHoverShadow}`,
         borderColor: tokens.cardHoverBorder,
